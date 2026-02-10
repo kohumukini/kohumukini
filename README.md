@@ -12,7 +12,7 @@ I'm a high school senior pursuing my Bachelor's in Software Development at Green
 **Tools:** Git, VS Code, MySQL  
 
 ## Outside of code
-I enjoy physical activity and have coach youth athletes at a local club (200+ hours). When I'm not coding or on exercising, I'm exploring AI and ML.
+I enjoy physical activity and have coach youth athletes at a local club (200+ hours). When I'm not coding or out exercising, I'm exploring AI and ML.
 
 ## Let's connect
 📧 kealii.ohumukini@gmail.com  
