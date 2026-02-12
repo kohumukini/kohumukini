@@ -18,5 +18,3 @@ I enjoy physical activity and have coach youth athletes at a local club (200+ ho
 📧 kealii.ohumukini@gmail.com  
 
 ---
-
-Check out my pinned projects below 👇
