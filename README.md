@@ -4,7 +4,7 @@
 
 Data Analytics & Deep Learning Student · Building Software With Impact
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](linkedin.com/in/kealii-ohumukini)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/kealii-ohumukini)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kealii.ohumukini@gmail.com)
 
 </div>
