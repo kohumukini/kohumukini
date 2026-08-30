@@ -67,18 +67,18 @@ Data Analytics & Deep Learning Student · Building Software With Impact
 <tr>
 <td width="100%" valign="top" align="center">         
   
-### YFinance Stock Price Analysis
-*React | TypeScript | Tailwind | PostgreSQL | Docker | Python | PyTorch | FastAPI*
+### Finalyze - Financial Document Perser
+*React | TypeScript | Tailwind | PostgreSQL | Render | Python | FastAPI | RAG*
 
 <div align="left">
   
 Designing and building a responsive webpage that: 
 
-  - Cleans and organizes data from `yfinance` library
-  - Stores data within a postgres database with a medallian architecture to maintain data integrity
-  - Interprets incoming data and predicts pricing + a buy/sell indicator with a given confidence level
-  - Displays information through FastAPI and React webstack
-  - Provides data visualizations for data interpretation
+  - Ingests and stores complex financial documents
+  - Chunks & embeds document content with custom functions
+  - Utilizes pgvector to store vector embeddings
+  - Gives users access to an interactive LLM system
+  - Contextualizes llm on financial documents ingested
     
 </div>
 
