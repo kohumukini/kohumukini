@@ -11,10 +11,11 @@ Data Analytics & Deep Learning Student · Building Software With Impact
 
 
 ## About Me
+- Attained **Associate of Applied Science in Data Analytics & Software Development** concurrent with High School Diploma
 - Pursuing **Bachelors of Applied Science in IT - Software Development** @ Green River College (Class of 2028)
 - Keen interest in Software, Data Analytics & Machine Learning
 - Member of the **Board Masters Club** @ Green River: Student lead group dedicated to whiteboarding, DSA practice, and interview prep with fellow students
-- Currently building deep learning models to analyze patterns and make predictions
+- Currently building full-stack applications integrating Data Analysis, AI, and Machine Learning into these systems
 
 
 ## Skills
